@@ -1,102 +1,92 @@
-Google Search Status Dashboard (Arabic)
+
+# Google Search Status Dashboard (Arabic)
+
 An Arabic-language dashboard for monitoring the operational status of Google Search systems.
 
 The project presents Google Search status information in an accessible Arabic interface, helping webmasters and website owners follow service disruptions and status updates.
 
-Live dashboard: Arsoporte – Google Search Status Dashboard
+**Live Dashboard:** [Arsoporte – Google Search Status Dashboard](https://www.arsoporte.com/p/google-search-status-dashboard.html)
 
-Website: https://www.arsoporte.com/
+**Website:** [https://www.arsoporte.com/](https://www.arsoporte.com/)
 
-Features
+---
 
-Arabic user interface.
+## ✨ Features
 
-Monitoring of Google Search systems:
+- Arabic user interface.
+- Monitoring of Google Search systems:
+  - **Crawling**
+  - **Indexing**
+  - **Ranking**
+  - **Serving**
+- Display of reported incidents and service updates.
+- Historical incident information.
+- Calendar and status summaries.
+- Search and filtering options.
+- Sharing and RSS-related features.
 
-Crawling
+---
 
-Indexing
-
-Ranking
-
-Serving
-
-Display of reported incidents and service updates.
-
-Historical incident information.
-
-Calendar and status summaries.
-
-Search and filtering options.
-
-Sharing and RSS-related features.
-
-Project Files
+## 📁 Project Files
 
 The repository currently contains the following files:
 
-File
+| File | Description |
+|:---|:---|
+| `style.css` | Dashboard styles and visual presentation. |
+| `dashboard.js` | Dashboard functionality and data handling. |
 
-Description
+> **Note:** The HTML integration is maintained separately on the Arsoporte website.
 
-style.css
+---
 
-Dashboard styles and visual presentation.
-
-dashboard.js
-
-Dashboard functionality and data handling.
-
-The HTML integration is maintained separately on the Arsoporte website.
-
-Data Source
+## 🔗 Data Source
 
 The dashboard retrieves Google Search status information from Google's public status data:
 
-Google Search Status – Incidents JSON
+- [Google Search Status – Incidents JSON](https://status.search.google.com/incidents.json)
 
 The information displayed by the dashboard is based on data provided by Google.
 
-Usage and Attribution
+---
 
-You are welcome to use, adapt, and redistribute this project's code under the MIT License.
+## 📜 Usage and Attribution
 
-If you use this project or incorporate its code into another website or application, please acknowledge Arsoporte and include a link to:
+You are welcome to use, adapt, and redistribute this project's code under the **MIT License**.
 
-https://www.arsoporte.com/
+If you use this project or incorporate its code into another website or application, please acknowledge **Arsoporte** and include a link to:
 
-Attribution is appreciated and helps others discover the original project.
+**[https://www.arsoporte.com/](https://www.arsoporte.com/)**
 
-Contributions
+> Attribution is appreciated and helps others discover the original project.
 
-Contributions are welcome.
+---
+
+## 🤝 Contributions
+
+Contributions are welcome!
 
 You can participate by:
 
-Reporting bugs or unexpected behavior through GitHub Issues.
+- Reporting bugs or unexpected behavior through GitHub Issues.
+- Suggesting new features or improvements.
+- Submitting code changes through Pull Requests.
 
-Suggesting new features or improvements.
+> [!IMPORTANT]
+> All contributions are subject to review. No proposed change will be incorporated into the main project without the repository maintainer's review and approval.
 
-Submitting code changes through Pull Requests.
+For more information, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-All contributions are subject to review. No proposed change will be incorporated into the main project without the repository maintainer's review and approval.
+---
 
-For more information, see CONTRIBUTING.md.
+## 🏷️ Version
 
-Version
-
-Current project version: 4.0.0
+**Current project version:** `4.0.0`
 
 Project updates and changes will be documented in the repository.
 
-Copyright
+---
 
-Copyright © 2026 Arsoporte.com, Adham Ahmed, and Mohamed El Oueryaghly.
+## © Copyright
 
-The project is distributed under the MIT License. See the LICENSE file for details.
-
-Disclaimer
-
-This is an independent community project and is not affiliated with, endorsed by, or officially connected to Google.
-
-Google Search and Google are trademarks of Google LLC.
+Copyright © 2026 **Arsoporte.com, Adham Ahmed, and Mohamed El Oueryaghly**. All rights reserved.
